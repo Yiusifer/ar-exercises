@@ -10,4 +10,4 @@ puts "----------"
 @store1.name = "BobRoss"
 @store1.save
 
-puts "This is store1: #{@store1}"
+puts "This is store1 name: #{@store1.name}"
